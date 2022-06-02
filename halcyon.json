@@ -6,6 +6,7 @@
       "events": [
         {
           "name": "Light Indian Vocal Solo ",
+          "image": "",
           "open": false,
           "prize": "",
           "brief": "",
@@ -16,11 +17,13 @@
             "Maximum of two accompanists allowed."
           ],
           "date": "16 June 2022",
-          "location": "",
+          "location": "Birla Auditorium",
+          "time": "1:30 PM",
           "registration_fee": "200"
         },
         {
           "name": "Westren Vocal Solo",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/western_singing_ERcHGEDnF.jpg",
           "open": false,
           "prize": "",
           "brief": "",
@@ -31,11 +34,13 @@
             "Time limit : is 4+1 minutes."
           ],
           "date": "16 June 2022",
-          "location": "",
+          "location": "Birla Auditorium",
+          "time": "4:00 PM",
           "registration_fee": "200"
         },
         {
           "name": "Battle Of Bands",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/battle_of_bands_Yi5awtf2f.jpg",
           "open": false,
           "prize": "",
           "brief": "",
@@ -47,11 +52,13 @@
             "Karaoke, programmed music and special effects are not allowed."
           ],
           "date": "16 June 2022",
-          "location": "",
+          "location": "Open Stage",
+          "time": "7:00 PM",
           "registration_fee": "800"
         },
         {
           "name": "Duet Singing",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/duet_singing_o-VeSpC8h0.jpg",
           "open": false,
           "prize": "",
           "brief": "",
@@ -63,11 +70,13 @@
             "Judgment will be based solely on vocals."
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Birla Auditorium",
+          "time": "1:00 PM",
           "registration_fee": "300"
         },
         {
           "name": "Beatboxing Solo",
+          "image": "",
           "open": true,
           "prize": "",
           "brief": "",
@@ -82,11 +91,13 @@
             "Halcyon music committee reserves the right to make any last-minute changes in the rules."
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Basketball Court",
+          "time": "3:00 PM",
           "registration_fee": "200"
         },
         {
           "name": "Classical Vocal Solo",
+          "image": "",
           "open": false,
           "prize": "",
           "brief": "",
@@ -100,7 +111,8 @@
             "Time limit: 10+1 minutes."
           ],
           "date": "18 June 2022",
-          "location": "",
+          "location": "Birla Auditorium",
+          "time": "2:00 PM",
           "registration_fee": "200"
         }
       ],
@@ -122,8 +134,13 @@
       "events": [
         {
           "name": "Spell Bee",
+          "image": "",
           "open": true,
           "prize": "",
+          "final": true,
+          "finaldate": "16 june 2022",
+          "finallocation": "Chemical Dept",
+          "finaltime": "4:00 PM",
           "brief": "",
           "rules": [
             "Open event.",
@@ -132,12 +149,15 @@
             "The meanings of various words will be given on demand."
           ],
           "date": "16 June 2022",
-          "location": "",
+          "location": "Chemical Dept",
+          "time": "2:15 PM",
           "registration_fee": "200"
         },
         {
           "name": "Creative Writing",
+          "image": "",
           "open": true,
+          "final": false,
           "prize": "",
           "brief": "",
           "rules": [
@@ -147,12 +167,15 @@
             "Time limit: 75 minutes."
           ],
           "date": "16 June 2022",
-          "location": "",
+          "location": "Chemical Dept",
+          "time": "1:30 PM",
           "registration_fee": "200"
         },
         {
           "name": "Debate",
+          "image": "",
           "open": false,
+          "final": false,
           "prize": "",
           "brief": "",
           "rules": [
@@ -165,13 +188,16 @@
             "Judges as well as audience mayask questions."
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Chemical Seminar Hall",
+          "time": "1:30 PM",
           "registration_fee": "200"
         },
         {
           "name": "Radio Active",
+          "image": "",
           "open": true,
           "prize": "",
+          "final": false,
           "brief": "",
           "rules": [
             "Open event.",
@@ -181,13 +207,16 @@
             "These tracks shall be given to the participants for a brief period before their performance."
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Chemical Seminar Hall",
+          "time": "2:00 PM",
           "registration_fee": "200"
         },
         {
           "name": "Charadeous Battle",
+          "image": "",
           "open": false,
           "prize": "",
+          "final": false,
           "brief": "",
           "rules": [
             "3 teams per college.",
@@ -196,13 +225,16 @@
             "Top teams qualify for the finals."
           ],
           "date": "16 June 2022",
-          "location": "",
+          "location": "Chemical seminar Hall",
+          "time": "3:30 PM",
           "registration_fee": "200"
         },
         {
           "name": "BlindFold Texting",
+          "image": "",
           "open": true,
           "prize": "",
+          "final": false,
           "brief": "",
           "rules": [
             "Open event.",
@@ -212,13 +244,16 @@
             "No restrictions on the phone used."
           ],
           "date": "18 June 2022",
-          "location": "",
+          "location": "Media Centre",
+          "time": "1:45 PM",
           "registration_fee": "200"
         },
         {
           "name": "Poetry Slam",
+          "image": "",
           "open": true,
           "prize": "",
+          "final": false,
           "brief": "",
           "rules": [
             "Open event.",
@@ -227,13 +262,19 @@
             "Time Duration: Preparation- 20 minutes & Recitation- 3 minutes."
           ],
           "date": "16 June 2022",
-          "location": "",
+          "location": "Chemical Dept",
+          "time": "1:00 PM",
           "registration_fee": "200"
         },
         {
           "name": "20Q",
+          "image": "",
           "open": true,
           "prize": "",
+          "final": true,
+          "finaldate": "17 june 2022",
+          "finallocation": "Chemical Seminar Hall",
+          "finaltime": "2:30 PM",
           "brief": "",
           "rules": [
             "Open event.",
@@ -248,13 +289,16 @@
             "Finals: Standard 20Q rules."
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Chemical Dept",
+          "time": "11:15 AM",
           "registration_fee": "200"
         },
         {
           "name": "Quiz",
+          "image": "",
           "open": true,
           "prize": "",
+          "final": true,
           "brief": "",
           "rules": [
             "Open event.",
@@ -263,7 +307,8 @@
             " One written preliminary test, from which top teams will be selected for the finals."
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Chemical Seminar Hall",
+          "time": "12:00 PM",
           "registration_fee": "200"
         }
       ],
@@ -286,6 +331,7 @@
       "events": [
         {
           "name": "Duet Dance",
+          "image": "",
           "open": false,
           "prize": "10000",
           "brief": "",
@@ -295,11 +341,13 @@
             "Time Limit : 4+1 Minutes"
           ],
           "date": "16 June 2022",
-          "location": "",
+          "location": "Open Stage",
+          "time": "6:00 PM",
           "registration_fee": "300"
         },
         {
           "name": "Western Solo Dance",
+          "image": "",
           "open": false,
           "prize": "6000",
           "brief": "",
@@ -308,11 +356,13 @@
             "Time limit : 3 + 2 minutes on stage."
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Birla Auditorium",
+          "time": "4:30 PM",
           "registration_fee": "200"
         },
         {
           "name": "Classical And Folk Dance",
+          "image": "",
           "open": false,
           "prize": "6000",
           "brief": "",
@@ -322,11 +372,12 @@
             "Time limit : 3 + 2 minutes on stage."
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Birla Auditorium",
           "registration_fee": "200"
         },
         {
           "name": "Choreography",
+          "image": "",
           "open": false,
           "prize": "30000",
           "brief": "",
@@ -338,7 +389,8 @@
             "Teams have to submit a video of their performance as per the date announced on the website."
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Open Stage",
+          "time": "7:00 PM",
           "registration_fee": "1200"
         }
       ],
@@ -360,6 +412,7 @@
       "events": [
         {
           "name": "Face Painting",
+          "image": "",
           "open": true,
           "prize": "4500",
           "brief": "",
@@ -371,11 +424,13 @@
             "Provisions - Waste cloth/paper, water, plastic cups."
           ],
           "date": "16 June 2022",
-          "location": "",
+          "location": "Law Tennis Court",
+          "time": "1:30 PM",
           "registration_fee": "200"
         },
         {
           "name": "Clay Modelling",
+          "image": "",
           "open": true,
           "prize": "4500",
           "brief": "",
@@ -388,12 +443,14 @@
             "Time limit: 1 hour"
           ],
           "date": "16 June 2022",
-          "location": "",
+          "location": "Mech Dept",
+          "time": "3:00 PM",
           "registration_fee": "200"
         },
         {
           "name": "Collage",
           "prize": "3500",
+          "image": "",
           "open": true,
           "brief": "",
           "rules": [
@@ -407,11 +464,13 @@
             "Participants will not be allowed to leave the hall during the event."
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Archi Dept",
+          "time": "11:30 PM",
           "registration_fee": "200"
         },
         {
           "name": "Split Art",
+          "image": "",
           "open": true,
           "prize": "5500",
           "brief": "",
@@ -430,6 +489,7 @@
         {
           "name": "Trash To Art",
           "link": "",
+          "image": "",
           "open": true,
           "prize": "",
           "brief": "",
@@ -450,6 +510,7 @@
         },
         {
           "name": "Creative Photography",
+          "image": "",
           "open": false,
           "prize": "3500",
           "brief": "",
@@ -467,6 +528,7 @@
         },
         {
           "name": "Pencil Sketch",
+          "image": "",
           "open": true,
           "prize": "3500",
           "brief": "",
@@ -501,6 +563,7 @@
       "events": [
         {
           "name": "NFS",
+          "image": "",
           "open": false,
           "prize": "3500",
           "brief": "",
@@ -511,6 +574,7 @@
         },
         {
           "name": "Counter Strike",
+          "image": "",
           "open": false,
           "prize": "12000",
           "brief": "",
@@ -525,6 +589,7 @@
         },
         {
           "name": "Chess",
+          "image": "",
           "open": true,
           "prize": "3500",
           "brief": "",
@@ -541,6 +606,7 @@
         },
         {
           "name": "Battle Grounds Mobile India",
+          "image": "",
           "open": false,
           "prize": "7000",
           "brief": "",
@@ -574,6 +640,7 @@
       "events": [
         {
           "name": "Stand-Up Comedy",
+          "image": "",
           "open": false,
           "prize": "3500",
           "brief": "",
@@ -588,6 +655,7 @@
         },
         {
           "name": "Street Play",
+          "image": "",
           "open": true,
           "prize": "16500",
           "brief": "",
@@ -604,6 +672,7 @@
         },
         {
           "name": "Skit",
+          "image": "",
           "open": true,
           "prize": "16500",
           "brief": "",
@@ -620,6 +689,7 @@
         },
         {
           "name": "60 Seconds To Fame",
+          "image": "",
           "open": true,
           "prize": "3000",
           "brief": "",
@@ -637,6 +707,7 @@
         },
         {
           "name": "Mime",
+          "image": "",
           "open": true,
           "prize": "10000",
           "brief": "",
