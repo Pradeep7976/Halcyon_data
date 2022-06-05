@@ -392,7 +392,8 @@
           "brief": "",
           "rules": [
             "Live band or group song accompanied by dancing is not allowed.",
-            "Respective dance form props are allowed. Maximum number of participants is 6 andminimum is 1.",
+            "Respective dance form props are allowed.",
+            "Maximum number of participants is 6 andminimum is 1.",
             "Time limit : 3 + 2 minutes on stage."
           ],
           "date": "17 June 2022",
@@ -409,8 +410,8 @@
           "rules": [
             "Time limit : 6 + 2 minutes.",
             "Pre-recorded music is allowed.",
-            "Points are awarded for costumes, interpretation, entry-exit, facial expression and co-ordination. Maximum.",
-            "Number of participants is 18 and minimum is 6.",
+            "Points are awarded for costumes, interpretation, entry-exit, facial expression and co-ordination.",
+            "Maximum Number of participants is 18 and minimum is 6.",
             "Teams have to submit a video of their performance as per the date announced on the website."
           ],
           "date": "17 June 2022",
@@ -419,7 +420,7 @@
           "registration_fee": "1200"
         }
       ],
-      "rules": "All events allow a maximum of 3 participants or teams percollege. Audio for dance should be made available to the concerned co-ordinator 3 hours prior to the event in a ready to play condition. Poor audio quality is not the responsibility of the organizers. Any costumes, gestures and actions should not be obscene. The decision of the JUDGES is final and binding on all the participants",
+      "rules": "All events allow a maximum of 3 participants or teams per college. Audio for dance should be made available to the concerned co-ordinator 3 hours prior to the event in a ready to play condition. Poor audio quality is not the responsibility of the organizers. Any costumes, gestures and actions should not be obscene. The decision of the JUDGES is final and binding on all the participants.",
       "co_ordinators": [
         {
           "name": "Rishab S",
@@ -489,7 +490,7 @@
             "Participants will not be allowed to leave the hall during the event."
           ],
           "date": "17 June 2022",
-          "location": "Archi Dept",
+          "location": "Architecture Dept",
           "time": "11:30 PM",
           "registration_fee": "200"
         },
