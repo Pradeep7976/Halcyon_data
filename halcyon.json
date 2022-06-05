@@ -6,6 +6,7 @@
       "events": [
         {
           "name": "Light Indian Vocal Solo ",
+          "image": "",
           "open": false,
           "prize": "",
           "brief": "",
@@ -21,7 +22,8 @@
           "registration_fee": "200"
         },
         {
-          "name": "Westren Vocal Solo",
+          "name": "Western Vocal Solo",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/western_singing_ERcHGEDnF.jpg",
           "open": false,
           "prize": "",
           "brief": "",
@@ -38,6 +40,7 @@
         },
         {
           "name": "Battle Of Bands",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/battle_of_bands_Yi5awtf2f.jpg",
           "open": false,
           "prize": "",
           "brief": "",
@@ -55,6 +58,7 @@
         },
         {
           "name": "Duet Singing",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/duet_singing_o-VeSpC8h0.jpg",
           "open": false,
           "prize": "",
           "brief": "",
@@ -72,6 +76,7 @@
         },
         {
           "name": "Beatboxing Solo",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/beat_F_w--gfkz.jpg",
           "open": true,
           "prize": "",
           "brief": "",
@@ -92,6 +97,7 @@
         },
         {
           "name": "Classical Vocal Solo",
+          "image": "",
           "open": false,
           "prize": "",
           "brief": "",
@@ -128,6 +134,7 @@
       "events": [
         {
           "name": "Spell Bee",
+          "image": "",
           "open": true,
           "prize": "",
           "final": true,
@@ -147,7 +154,32 @@
           "registration_fee": "200"
         },
         {
+          "name": "JAM",
+          "image": "",
+          "open": true,
+          "prize": "",
+          "final": true,
+          "finaldate": "18 june 2022",
+          "finallocation": "Media Centre",
+          "finaltime": "2:30 PM",
+          "brief": "",
+          "rules": [
+            "Open event.",
+            "He/She would be objected for the following reasons",
+            "Usage of slang, direct speech, and abbreviations.",
+            "Plagiarism or Redundancy.",
+            "Deviation from the topic/time-wasting tactics.",
+            "Unnecessary stress or obsession with words,incoherence, or dramatization.",
+            "Standard formats are not to be used."
+          ],
+          "date": "18 June 2022",
+          "location": "Media Centre",
+          "time": "11:15 AM",
+          "registration_fee": "200"
+        },
+        {
           "name": "Creative Writing",
+          "image": "",
           "open": true,
           "final": false,
           "prize": "",
@@ -165,6 +197,7 @@
         },
         {
           "name": "Debate",
+          "image": "",
           "open": false,
           "final": false,
           "prize": "",
@@ -185,6 +218,7 @@
         },
         {
           "name": "Radio Active",
+          "image": "",
           "open": true,
           "prize": "",
           "final": false,
@@ -203,6 +237,7 @@
         },
         {
           "name": "Charadeous Battle",
+          "image": "",
           "open": false,
           "prize": "",
           "final": false,
@@ -220,6 +255,7 @@
         },
         {
           "name": "BlindFold Texting",
+          "image": "",
           "open": true,
           "prize": "",
           "final": false,
@@ -238,6 +274,7 @@
         },
         {
           "name": "Poetry Slam",
+          "image": "",
           "open": true,
           "prize": "",
           "final": false,
@@ -255,6 +292,7 @@
         },
         {
           "name": "20Q",
+          "image": "",
           "open": true,
           "prize": "",
           "final": true,
@@ -281,6 +319,7 @@
         },
         {
           "name": "Quiz",
+          "image": "",
           "open": true,
           "prize": "",
           "final": true,
@@ -316,6 +355,7 @@
       "events": [
         {
           "name": "Duet Dance",
+          "image": "",
           "open": false,
           "prize": "10000",
           "brief": "",
@@ -331,6 +371,7 @@
         },
         {
           "name": "Western Solo Dance",
+          "image": "",
           "open": false,
           "prize": "6000",
           "brief": "",
@@ -345,6 +386,7 @@
         },
         {
           "name": "Classical And Folk Dance",
+          "image": "",
           "open": false,
           "prize": "6000",
           "brief": "",
@@ -355,10 +397,12 @@
           ],
           "date": "17 June 2022",
           "location": "Birla Auditorium",
+          "time": "3:00 PM",
           "registration_fee": "200"
         },
         {
           "name": "Choreography",
+          "image": "",
           "open": false,
           "prize": "30000",
           "brief": "",
@@ -393,6 +437,7 @@
       "events": [
         {
           "name": "Face Painting",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/fine-face_painting_3nEVbeXJ_.jpg ",
           "open": true,
           "prize": "4500",
           "brief": "",
@@ -410,6 +455,7 @@
         },
         {
           "name": "Clay Modelling",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/fine-clay_modeling_dBnY9EVP0.jpg",
           "open": true,
           "prize": "4500",
           "brief": "",
@@ -429,6 +475,7 @@
         {
           "name": "Collage",
           "prize": "3500",
+          "image": "",
           "open": true,
           "brief": "",
           "rules": [
@@ -448,6 +495,7 @@
         },
         {
           "name": "Split Art",
+          "image": "",
           "open": true,
           "prize": "5500",
           "brief": "",
@@ -460,12 +508,14 @@
             "Participants will be alternatively allowed to paint in intervals of 15 minutes."
           ],
           "date": "18 June 2022",
-          "location": "",
+          "location": "Architechture Dept",
+          "time": "1:00 PM",
           "registration_fee": "200"
         },
         {
           "name": "Trash To Art",
           "link": "",
+          "image": "",
           "open": true,
           "prize": "",
           "brief": "",
@@ -481,11 +531,13 @@
             "Art must be explained."
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Architechture Dept",
+          "time": "2:00 PM",
           "registration_fee": "200"
         },
         {
           "name": "Creative Photography",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/fine-creative_photography_bmt6cagfl.jpg",
           "open": false,
           "prize": "3500",
           "brief": "",
@@ -498,11 +550,13 @@
             "The topic will be announced on the website 48 hours prior to the event."
           ],
           "date": "18 June 2022",
-          "location": "",
+          "location": "AD Seminar Hall",
+          "time": "11:00 AM",
           "registration_fee": "200"
         },
         {
           "name": "Pencil Sketch",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/fine-pencil_lxTktIs2l.jpg",
           "open": true,
           "prize": "3500",
           "brief": "",
@@ -515,7 +569,8 @@
             "Participants will not be allowed to leave the hall during the event"
           ],
           "date": "18 June 2022",
-          "location": "",
+          "location": "Architecture Dept",
+          "time": "11:00 AM",
           "registration_fee": "200"
         }
       ],
@@ -537,16 +592,19 @@
       "events": [
         {
           "name": "NFS",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/g-NFS_jTS8pmK9k.jpg",
           "open": false,
           "prize": "3500",
           "brief": "",
           "rules": ["4 participants compete with each other in a circuit."],
           "date": "18 June 2022",
-          "location": "",
+          "location": "CSE Dept",
+          "time": "11:00 AM",
           "registration_fee": "200"
         },
         {
           "name": "Counter Strike",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/g-counterstrike_8MT9JN3yO.jpg?",
           "open": false,
           "prize": "12000",
           "brief": "",
@@ -556,11 +614,13 @@
             "Official ESL ONE Gaming Rules will be followed except for the number of rounds allotted."
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Architecture Dept",
+          "time": "11:00 AM",
           "registration_fee": "300"
         },
         {
-          "name": "Chess",
+          "name": "Anti Chess",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/g-chess_sO6UHKavR.jpg",
           "open": true,
           "prize": "3500",
           "brief": "",
@@ -572,11 +632,13 @@
             "3 wrong moves lead to elimination."
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Architecture Dept",
+          "time": "11:00 AM",
           "registration_fee": "200"
         },
         {
           "name": "Battle Grounds Mobile India",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/g-pubg_aybtNb4eJ.jpg",
           "open": false,
           "prize": "7000",
           "brief": "",
@@ -588,7 +650,8 @@
             "Players are not allowed to use peripheral devices of any kind."
           ],
           "date": "16 June 2022",
-          "location": "",
+          "location": "Media Center",
+          "time": "1:30 PM",
           "registration_fee": ""
         }
       ],
@@ -610,6 +673,7 @@
       "events": [
         {
           "name": "Stand-Up Comedy",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/standup_comidy_Xc3Zq0CcMO.jpg",
           "open": false,
           "prize": "3500",
           "brief": "",
@@ -619,11 +683,36 @@
             "The time allowed is 5+2 minutes."
           ],
           "date": "16 June 2022",
-          "location": "",
+          "location": "AD Block Sem Hall",
+          "time": "2:00 PM",
           "registration_fee": "200"
         },
         {
+          "name": "Indian Ethnic Show",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/standup_comidy_Xc3Zq0CcMO.jpg",
+          "open": true,
+          "prize": "32000",
+          "brief": "",
+          "rules": [
+            "3 teams per college.",
+            "A team can include boys and girls.",
+            "Minimum 4 participants and maximum 20 participants.",
+            "Karaoke will be allowed.Time limit is 8+2 minutes.",
+            "Teams have to submit photos and videos of their performance as per the date announced on the official Instagram page. ",
+            "Participants are requested to behave decently on stage.",
+            "Indecent acts of physical contact or vulgarity on stage will lead to disqualification.",
+            "Dress code of participants should strictly portray Indian ethnicity and should not involve any kind of vulgarity.",
+            "Traditional culture of different states has to be presented.",
+            "Decision of the judges is final and binding"
+          ],
+          "date": "16 June 2022",
+          "location": "Open Stage",
+          "registration_fee": "1200",
+          "time": "6:00 PM"
+        },
+        {
           "name": "Street Play",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/street_play_-td1iXqPQ.jpg",
           "open": true,
           "prize": "16500",
           "brief": "",
@@ -635,11 +724,13 @@
             "The play should be for a social cause."
           ],
           "date": "16 June 2022",
-          "location": "",
+          "location": "Basketball Court",
+          "time": "3:15 PM",
           "registration_fee": "800"
         },
         {
           "name": "Skit",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/skit_T-7WNLATD.jpg",
           "open": true,
           "prize": "16500",
           "brief": "",
@@ -651,11 +742,13 @@
             "Time limit: 10+2 minutes"
           ],
           "date": "17 June 2022",
-          "location": "",
+          "location": "Birla Auditorium",
+          "time": "11:30 PM",
           "registration_fee": "800"
         },
         {
           "name": "60 Seconds To Fame",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/60_sec_to_frame_PGTMB_Dc-.jpg",
           "open": true,
           "prize": "3000",
           "brief": "",
@@ -668,11 +761,13 @@
             "Time limit given is 60 seconds."
           ],
           "date": "18 June 2022",
-          "location": "",
+          "location": "Birla Auditorium",
+          "time": "11:30 AM",
           "registration_fee": "200"
         },
         {
           "name": "Mime",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/mime_dZXRgCvAN.jpg?",
           "open": true,
           "prize": "10000",
           "brief": "",
@@ -685,7 +780,8 @@
             "Time Limit: 4+2 minutes."
           ],
           "date": "18 June 2022",
-          "location": "",
+          "location": "Birla Auditorium",
+          "time": "10:00 AM",
           "registration_fee": "500"
         }
       ],
