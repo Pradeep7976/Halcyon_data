@@ -6,7 +6,7 @@
       "events": [
         {
           "name": "Light Indian Vocal Solo ",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/light_indian_vocal_solo_FBQuUH31H.jpg",
           "open": false,
           "prize": "",
           "brief": "",
@@ -97,7 +97,7 @@
         },
         {
           "name": "Classical Vocal Solo",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/classical_vocalsolo_Gp2JU8ZAN.jpg",
           "open": false,
           "prize": "",
           "brief": "",
@@ -134,7 +134,7 @@
       "events": [
         {
           "name": "Spell Bee",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/spell_bee_EyVuhzAAb.jpg",
           "open": true,
           "prize": "",
           "final": true,
@@ -155,7 +155,7 @@
         },
         {
           "name": "JAM",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/jam_gMWTiVYQu.jpg",
           "open": true,
           "prize": "",
           "final": true,
@@ -179,7 +179,7 @@
         },
         {
           "name": "Creative Writing",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/creative_writing_bNHHc5Kvn.jpg",
           "open": true,
           "final": false,
           "prize": "",
@@ -197,7 +197,7 @@
         },
         {
           "name": "Debate",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/debate_BVkgOKC3b.jpg",
           "open": false,
           "final": false,
           "prize": "",
@@ -218,7 +218,7 @@
         },
         {
           "name": "Radio Active",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/radio_active_h8PZK153L.jpg",
           "open": true,
           "prize": "",
           "final": false,
@@ -237,7 +237,7 @@
         },
         {
           "name": "Charadeous Battle",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/blindfold_texting_v8DPCoWnZC.jpg",
           "open": false,
           "prize": "",
           "final": false,
@@ -255,7 +255,7 @@
         },
         {
           "name": "Blindfold Texting",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/blindfold_texting_v8DPCoWnZC.jpg?",
           "open": true,
           "prize": "",
           "final": false,
@@ -274,7 +274,7 @@
         },
         {
           "name": "Poetry Slam",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/poetry_slam_7M2e0V-1rT.jpg",
           "open": true,
           "prize": "",
           "final": false,
@@ -292,7 +292,7 @@
         },
         {
           "name": "20Q",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/20Q_sFOR4ZVUb.jpg",
           "open": true,
           "prize": "",
           "final": true,
@@ -319,7 +319,7 @@
         },
         {
           "name": "Quiz",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/quiz_OJ63o37NO.jpg",
           "open": true,
           "prize": "",
           "final": true,
@@ -355,7 +355,7 @@
       "events": [
         {
           "name": "Duet Dance",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/duet_dance_1B4p8_AfH.jpg",
           "open": false,
           "prize": "10000",
           "brief": "",
@@ -371,7 +371,7 @@
         },
         {
           "name": "Western Solo Dance",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/duet_dance_1B4p8_AfH.jpg",
           "open": false,
           "prize": "6000",
           "brief": "",
@@ -386,7 +386,7 @@
         },
         {
           "name": "Classical And Folk Dance",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/classical_and_folk_dance_MMxCxsvHO.jpg",
           "open": false,
           "prize": "6000",
           "brief": "",
@@ -403,7 +403,7 @@
         },
         {
           "name": "Choreography",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/cherography_dance_4nrzCoX92.jpg",
           "open": false,
           "prize": "30000",
           "brief": "",
@@ -476,7 +476,7 @@
         {
           "name": "Collage",
           "prize": "3500",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/collage_DBLNy17WI.jpg",
           "open": true,
           "brief": "",
           "rules": [
@@ -496,7 +496,7 @@
         },
         {
           "name": "Split Art",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/split_art_bdfAq2W6P.jpg",
           "open": true,
           "prize": "5500",
           "brief": "",
@@ -516,7 +516,7 @@
         {
           "name": "Trash To Art",
           "link": "",
-          "image": "",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/trash_art_-rdM8vTKH.jpg",
           "open": true,
           "prize": "",
           "brief": "",
