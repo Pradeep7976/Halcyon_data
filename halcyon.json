@@ -8,7 +8,7 @@
           "name": "Light Indian Vocal Solo ",
           "image": "https://ik.imagekit.io/halcyon2022/cover/light_indian_vocal_solo_7Wj2Q7mme.jpeg",
           "open": false,
-          "prize": "",
+          "prize": "5000",
           "brief": "",
           "rules": [
             "Maximum of 3 participants per college.",
@@ -25,7 +25,7 @@
           "name": "Western Vocal Solo",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/western_singing_ERcHGEDnF.jpg",
           "open": false,
-          "prize": "",
+          "prize": "5000",
           "brief": "",
           "rules": [
             "Maximum of 3 participants per college.",
@@ -42,7 +42,7 @@
           "name": "Battle Of Bands",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/battle_of_bands_Yi5awtf2f.jpg",
           "open": false,
-          "prize": "",
+          "prize": "20000",
           "brief": "",
           "rules": [
             "Maximum of two bands per college.",
@@ -60,7 +60,7 @@
           "name": "Duet Singing",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/duet_singing_o-VeSpC8h0.jpg",
           "open": false,
-          "prize": "",
+          "prize": "7000",
           "brief": "",
           "rules": [
             "2 members per team.",
@@ -78,7 +78,7 @@
           "name": "Beatboxing Solo",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/beat_F_w--gfkz.jpg",
           "open": true,
-          "prize": "",
+          "prize": "4000",
           "brief": "",
           "rules": [
             "Open solo event.",
@@ -99,7 +99,7 @@
           "name": "Classical Vocal Solo",
           "image": "https://ik.imagekit.io/halcyon2022/cover/classical_vocalsolo_Gp2JU8ZAN.jpg",
           "open": false,
-          "prize": "",
+          "prize": "5000",
           "brief": "",
           "rules": [
             "Maximum of 3 participants per college.",
@@ -136,7 +136,7 @@
           "name": "Spell Bee",
           "image": "https://ik.imagekit.io/halcyon2022/cover/spell_bee_EyVuhzAAb.jpg",
           "open": true,
-          "prize": "",
+          "prize": "3000",
           "final": true,
           "finaldate": "16 june 2022",
           "finallocation": "Chemical Dept",
@@ -157,7 +157,7 @@
           "name": "JAM",
           "image": "https://ik.imagekit.io/halcyon2022/cover/jam_gMWTiVYQu.jpg",
           "open": true,
-          "prize": "",
+          "prize": "6000",
           "final": true,
           "finaldate": "18 june 2022",
           "finallocation": "Media Centre",
@@ -182,7 +182,7 @@
           "image": "https://ik.imagekit.io/halcyon2022/cover/creative_writing_bNHHc5Kvn.jpg",
           "open": true,
           "final": false,
-          "prize": "",
+          "prize": "3000",
           "brief": "",
           "rules": [
             "Open event.",
@@ -200,7 +200,7 @@
           "image": "https://ik.imagekit.io/halcyon2022/cover/debate_BVkgOKC3b.jpg",
           "open": false,
           "final": false,
-          "prize": "",
+          "prize": "6000",
           "brief": "",
           "rules": [
             "Maximum of 3 teams consisting of 2 members each (per college).",
@@ -220,7 +220,7 @@
           "name": "Radio Active",
           "image": "https://ik.imagekit.io/halcyon2022/cover/radio_active_h8PZK153L.jpg",
           "open": true,
-          "prize": "",
+          "prize": "7000",
           "final": false,
           "brief": "",
           "rules": [
@@ -239,7 +239,7 @@
           "name": "Charadeous Battle",
           "image": "https://ik.imagekit.io/halcyon2022/cover/caradious_battle_J3pGqDte0.jpg",
           "open": false,
-          "prize": "",
+          "prize": "10000",
           "final": false,
           "brief": "",
           "rules": [
@@ -257,7 +257,7 @@
           "name": "Blindfold Texting",
           "image": "https://ik.imagekit.io/halcyon2022/cover/blind_foldtexting_sBv82fCVs.jpeg",
           "open": true,
-          "prize": "",
+          "prize": "3000",
           "final": false,
           "brief": "",
           "rules": [
@@ -276,7 +276,7 @@
           "name": "Poetry Slam",
           "image": "https://ik.imagekit.io/halcyon2022/cover/poetry_slam_7M2e0V-1rT.jpg",
           "open": true,
-          "prize": "",
+          "prize": "3000",
           "final": false,
           "brief": "",
           "rules": [
@@ -294,7 +294,7 @@
           "name": "20Q",
           "image": "https://ik.imagekit.io/halcyon2022/cover/20Q_sFOR4ZVUb.jpg",
           "open": true,
-          "prize": "",
+          "prize": "7000",
           "final": true,
           "finaldate": "17 june 2022",
           "finallocation": "Chemical Seminar Hall",
@@ -321,7 +321,7 @@
           "name": "Quiz",
           "image": "https://ik.imagekit.io/halcyon2022/cover/quiz_OJ63o37NO.jpg",
           "open": true,
-          "prize": "",
+          "prize": "6000",
           "final": true,
           "brief": "",
           "rules": [
@@ -518,7 +518,7 @@
           "link": "",
           "image": "https://ik.imagekit.io/halcyon2022/cover/trash_art_-rdM8vTKH.jpg",
           "open": true,
-          "prize": "",
+          "prize": "6000",
           "brief": "",
           "rules": [
             "Open event.",
