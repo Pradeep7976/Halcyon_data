@@ -160,7 +160,7 @@
           "prize": "6000",
           "final": true,
           "finaldate": "18 june 2022",
-          "finallocation": "Media Centre",
+          "finallocation": "Chemical Dept",
           "finaltime": "2:30 PM",
           "brief": "",
           "rules": [
@@ -173,7 +173,7 @@
             "Standard formats are not to be used."
           ],
           "date": "18 June 2022",
-          "location": "Media Centre",
+          "location": "Chemical Dept",
           "time": "11:15 AM",
           "registration_fee": "200"
         },
