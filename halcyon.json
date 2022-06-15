@@ -5,7 +5,7 @@
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSe2LY-CPWzeBjCSIPuOiwossnMxi9kwZS_HDteNy9bTuKf60A/viewform?vc=0&c=0&w=1&flr=0",
       "events": [
         {
-          "name": "Light Indian Vocal Solo ",
+          "name": "Light Indian Vocal Solo",
           "image": "https://ik.imagekit.io/halcyon2022/cover/light_indian_vocal_solo_7Wj2Q7mme.jpeg",
           "open": false,
           "prize": "5000",
@@ -490,7 +490,7 @@
           ],
           "date": "17 June 2022",
           "location": "Architecture Dept",
-          "time": "11:30 PM",
+          "time": "11:30 AM",
           "registration_fee": "200"
         },
         {
@@ -628,9 +628,10 @@
           "rules": [
             "Open individuals event.",
             "Castling is allowed.",
-            "The maximum time limit for a move:30 Seconds.",
+            "The maximum time limit for a move:10 Seconds.",
             "Each piece has some points.",
-            "3 wrong moves lead to elimination."
+            "5 wrong moves lead to elimination.",
+            "Maximum duration of a match : 5 minutes"
           ],
           "date": "17 June 2022",
           "location": "Architecture Dept",
@@ -744,7 +745,7 @@
           ],
           "date": "17 June 2022",
           "location": "Birla Auditorium",
-          "time": "11:30 PM",
+          "time": "11:30 AM",
           "registration_fee": "800"
         },
         {
