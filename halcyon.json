@@ -5,44 +5,28 @@
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSe2LY-CPWzeBjCSIPuOiwossnMxi9kwZS_HDteNy9bTuKf60A/viewform?vc=0&c=0&w=1&flr=0",
       "events": [
         {
-          "name": "Light Indian Vocal Solo",
+          "name": "Indo-Western Vocal Solo",
           "image": "https://ik.imagekit.io/halcyon2022/cover/light_indian_vocal_solo_7Wj2Q7mme.jpeg",
           "open": false,
-          "prize": "5000",
+          "prize": "3500",
           "brief": "",
           "rules": [
             "Maximum of 3 participants per college.",
-            "Karaoke is allowed.",
-            " Time limit : 4+1 minutes.",
-            "Maximum of two accompanists allowed."
+            "Maximum of two accompanists allowed.",
+            "Recorded music or karaoke is allowed.",
+            " Time limit : 4+1 minutes."
+            
           ],
-          "date": "16 June 2022",
+          "date": "1 July 2023",
           "location": "Birla Auditorium",
-          "time": "1:30 PM",
-          "registration_fee": "200"
-        },
-        {
-          "name": "Western Vocal Solo",
-          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/western_singing_ERcHGEDnF.jpg",
-          "open": false,
-          "prize": "5000",
-          "brief": "",
-          "rules": [
-            "Maximum of 3 participants per college.",
-            "Maximum of two accompanists are allowed.",
-            "Recorded music or karaoke is allowed. ",
-            "Time limit : is 4+1 minutes."
-          ],
-          "date": "16 June 2022",
-          "location": "Birla Auditorium",
-          "time": "4:00 PM",
+          "time": "12:00 PM",
           "registration_fee": "200"
         },
         {
           "name": "Battle Of Bands",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/battle_of_bands_Yi5awtf2f.jpg",
           "open": false,
-          "prize": "20000",
+          "prize": "10000",
           "brief": "",
           "rules": [
             "Maximum of two bands per college.",
@@ -51,34 +35,35 @@
             "Time limit 20 minutes which includes both sound check and performance.",
             "Karaoke, programmed music and special effects are not allowed."
           ],
-          "date": "16 June 2022",
+          "date": "30 June 2023",
           "location": "Open Stage",
-          "time": "7:00 PM",
-          "registration_fee": "800"
+          "time": "4:00 PM",
+          "registration_fee": "1500"
         },
         {
           "name": "Duet Singing",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/duet_singing_o-VeSpC8h0.jpg",
           "open": false,
-          "prize": "7000",
+          "prize": "5000",
           "brief": "",
           "rules": [
             "2 members per team.",
             "A maximum of 3 teams per college are allowed.",
+            "No gender restrictions on team constitution",
             "Karaoke and a maximum of 2 accompanists are allowed.",
             "Time limit: 4+1 minutes.",
             "Judgement will be based solely on vocals."
           ],
-          "date": "17 June 2022",
-          "location": "Birla Auditorium",
-          "time": "1:00 PM",
+          "date": "1 July 2023",
+          "location": "Media Centre",
+          "time": "1:30 PM",
           "registration_fee": "300"
         },
         {
           "name": "Beatboxing Solo",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/beat_F_w--gfkz.jpg",
           "open": true,
-          "prize": "4000",
+          "prize": "3500",
           "brief": "",
           "rules": [
             "Open solo event.",
@@ -90,16 +75,16 @@
             "Judges' decisions will be based on originality, techniques and crowd response.",
             "Halcyon music committee reserves the right to make any last-minute changes in the rules."
           ],
-          "date": "17 June 2022",
+          "date": "30 June 2023",
           "location": "Basketball Court",
-          "time": "3:00 PM",
+          "time": "1:00 PM",
           "registration_fee": "200"
         },
         {
           "name": "Classical Vocal Solo",
           "image": "https://ik.imagekit.io/halcyon2022/cover/classical_vocalsolo_Gp2JU8ZAN.jpg",
           "open": false,
-          "prize": "5000",
+          "prize": "3500",
           "brief": "",
           "rules": [
             "Maximum of 3 participants per college.",
@@ -110,21 +95,21 @@
             "Shruthi boxes are allowed.",
             "Time limit: 10+1 minutes."
           ],
-          "date": "18 June 2022",
-          "location": "Birla Auditorium",
-          "time": "2:00 PM",
+          "date": "1 July 2023",
+          "location": "Media Centre",
+          "time": "10:30 AM",
           "registration_fee": "200"
         }
       ],
       "rules": "",
       "co_ordinators": [
         {
-          "name": "Syed Sabahath Ulla",
-          "phone": "8971374459"
+          "name": "Ashish",
+          "phone": "8197867380"
         },
         {
-          "name": "Ananya Jain",
-          "phone": "8762011160"
+          "name": "Sevanthi B S",
+          "phone": "6364244252"
         }
       ]
     },
@@ -133,34 +118,13 @@
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSckgS2F7WM3eClrCLhsz6W9jJM9VnXPqpGbkh4ujaLEe-0sJg/viewform?vc=0&c=0&w=1&flr=0",
       "events": [
         {
-          "name": "Spell Bee",
-          "image": "https://ik.imagekit.io/halcyon2022/cover/spell_bee_EyVuhzAAb.jpg",
-          "open": true,
-          "prize": "3000",
-          "final": true,
-          "finaldate": "16 june 2022",
-          "finallocation": "Chemical Dept",
-          "finaltime": "4:00 PM",
-          "brief": "",
-          "rules": [
-            "Open event.",
-            "1st round: Written elimination round.",
-            "2nd round: Verbal round.",
-            "The meanings of various words will be given on demand."
-          ],
-          "date": "16 June 2022",
-          "location": "Chemical Dept",
-          "time": "2:15 PM",
-          "registration_fee": "200"
-        },
-        {
           "name": "JAM",
           "image": "https://ik.imagekit.io/halcyon2022/cover/jam_gMWTiVYQu.jpg",
           "open": true,
-          "prize": "6000",
+          "prize": "4500",
           "final": true,
-          "finaldate": "18 june 2022",
-          "finallocation": "Chemical Dept",
+          "finaldate": "1 July 2023",
+          "finallocation": "Chemical Seminar hall",
           "finaltime": "2:30 PM",
           "brief": "",
           "rules": [
@@ -170,13 +134,15 @@
             "Plagiarism or Redundancy.",
             "Deviation from the topic/time-wasting tactics,",
             "Unnecessary stress or obsession with words,incoherence or dramatization.",
-            "Standard formats are not to be used."
+            "Standard formats are not to be used.",
+            "First round: Written elimination round."
           ],
-          "date": "18 June 2022",
-          "location": "Chemical Dept",
-          "time": "11:15 AM",
+          "date": "1 July 2023",
+          "location": "Chemical Seminar Hall",
+          "time": "12:00 PM",
           "registration_fee": "200"
         },
+
         {
           "name": "Creative Writing",
           "image": "https://ik.imagekit.io/halcyon2022/cover/creative_writing_bNHHc5Kvn.jpg",
@@ -190,66 +156,9 @@
             "The topic will be given on spot.",
             "Time limit: 75 minutes."
           ],
-          "date": "16 June 2022",
-          "location": "Chemical Dept",
-          "time": "1:30 PM",
-          "registration_fee": "200"
-        },
-        {
-          "name": "Debate",
-          "image": "https://ik.imagekit.io/halcyon2022/cover/debate_BVkgOKC3b.jpg",
-          "open": false,
-          "final": false,
-          "prize": "6000",
-          "brief": "",
-          "rules": [
-            "Maximum of 3 teams consisting of 2 members each (per college).",
-            "Topic will be announced 24 hours prior to the event.",
-            "One participant speaks for the topic while the other against it.",
-            "Each participant speaks for 5 minutes.",
-            "After each team speaks, 2 minutes is allowed for rebuttal.",
-            "Judges as well as audience may ask questions."
-          ],
-          "date": "17 June 2022",
+          "date": "30 June 2023",
           "location": "Chemical Seminar Hall",
-          "time": "1:30 PM",
-          "registration_fee": "200"
-        },
-        {
-          "name": "Radio Active",
-          "image": "https://ik.imagekit.io/halcyon2022/cover/radio_active_h8PZK153L.jpg",
-          "open": true,
-          "prize": "7000",
-          "final": false,
-          "brief": "",
-          "rules": [
-            "Open event.",
-            "Maximum of 2 members per team.",
-            "The topic will be given on the spot and participants will have to speak for 4 minutes, one participant speaks as a radio jockey and the other as a guest (prelims).",
-            "Participants shall be given 2 audio tracks and will be asked to speak for 4+1 minutes making use of the audio tracks(finals).",
-            "These tracks shall be given to the participants for a brief period before their performance."
-          ],
-          "date": "17 June 2022",
-          "location": "Chemical Seminar Hall",
-          "time": "2:00 PM",
-          "registration_fee": "200"
-        },
-        {
-          "name": "Charadeous Battle",
-          "image": "https://ik.imagekit.io/halcyon2022/cover/caradious_battle_J3pGqDte0.jpg",
-          "open": false,
-          "prize": "10000",
-          "final": false,
-          "brief": "",
-          "rules": [
-            "3 teams per college.",
-            "3 members per team, each member of the team needs to enact at least once in a round.",
-            "General Dumb Charades rules apply.",
-            "Top teams qualify for the finals."
-          ],
-          "date": "16 June 2022",
-          "location": "Chemical seminar Hall",
-          "time": "3:30 PM",
+          "time": "12:15 PM",
           "registration_fee": "200"
         },
         {
@@ -266,36 +175,18 @@
             "T9/predictive text and autocorrect are not allowed.",
             "No restrictions on the phone used."
           ],
-          "date": "18 June 2022",
-          "location": "Media Centre",
-          "time": "1:45 PM",
-          "registration_fee": "200"
-        },
-        {
-          "name": "Poetry Slam",
-          "image": "https://ik.imagekit.io/halcyon2022/cover/poetry_slam_7M2e0V-1rT.jpg",
-          "open": true,
-          "prize": "3000",
-          "final": false,
-          "brief": "",
-          "rules": [
-            "Open event.",
-            "Word(s) or a picture(s) will be provided.",
-            "No musical instruments or prerecorded music can be used.",
-            " Time Duration: Preparation- 20 minutes & Recitation- 3 minutes."
-          ],
-          "date": "16 June 2022",
-          "location": "Chemical Dept",
-          "time": "1:00 PM",
+          "date": "1 July 2023",
+          "location": "Chemical Seminar Hall",
+          "time": "1:30 PM",
           "registration_fee": "200"
         },
         {
           "name": "20Q",
           "image": "https://ik.imagekit.io/halcyon2022/cover/20Q_sFOR4ZVUb.jpg",
           "open": true,
-          "prize": "7000",
+          "prize": "5000",
           "final": true,
-          "finaldate": "17 june 2022",
+          "finaldate": "30 June 2023",
           "finallocation": "Chemical Seminar Hall",
           "finaltime": "2:30 PM",
           "brief": "",
@@ -311,17 +202,21 @@
             "10 minutes are then allotted to guess '3' answers based on the given clues.",
             "Finals: Standard 20Q rules."
           ],
-          "date": "17 June 2022",
+          "date": "30 June 2023",
           "location": "Chemical Dept",
-          "time": "11:15 AM",
-          "registration_fee": "200"
+          "time": "12:30 PM",
+          "registration_fee": "300"
         },
+
         {
           "name": "Quiz",
           "image": "https://ik.imagekit.io/halcyon2022/cover/quiz_OJ63o37NO.jpg",
           "open": true,
-          "prize": "6000",
+          "prize": "5000",
           "final": true,
+          "finaldate": "30 June 2023",
+          "finallocation": "Chemical Seminar Hall",
+          "finaltime": "3:00 PM",
           "brief": "",
           "rules": [
             "Open event.",
@@ -329,21 +224,65 @@
             "The number of rounds will be decided by the Quizmaster. ",
             " One written preliminary test, from which top teams will be selected for the finals."
           ],
-          "date": "17 June 2022",
+          "date": "30 June 2023",
           "location": "Chemical Seminar Hall",
-          "time": "12:00 PM",
+          "time": "2:00 PM",
+          "registration_fee": "300"
+        },
+        {
+          "name": "Charadeous Battle",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/caradious_battle_J3pGqDte0.jpg",
+          "open": false,
+          "prize": "7000",
+          "final": false,
+          "brief": "",
+          "rules": [
+            "3 teams per college.",
+            "3 members per team, each member of the team needs to enact at least once in a round.",
+            "General Dumb Charades rules apply.",
+            "Top teams qualify for the finals."
+          ],
+          "date": "30 June 2023",
+          "location": "Chemical seminar Hall",
+          "time": "1:00 PM",
+          "registration_fee": "400"
+        },
+
+
+        {
+          "name": "Spell Bee",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/spell_bee_EyVuhzAAb.jpg",
+          "open": true,
+          "prize": "3000",
+          "final": false,
+          "brief": "",
+          "rules": [
+            "Open event.",
+            "1st round: Written elimination round.",
+            "2nd round: Verbal round.",
+            "The meanings of various words will be given on demand."
+          ],
+          "date": "1 July 2023",
+          "location": "Chemical Classroom",
+          "time": "11:00 AM",
           "registration_fee": "200"
         }
+        
+        
+        
+        
+        
+        
       ],
       "rules": "Decisions of the respective event masters are final and binding for all events.",
       "co_ordinators": [
         {
-          "name": "Swaroop Kumar",
-          "phone": "9740585002"
+          "name": "Venkatesh",
+          "phone": "8310316591"
         },
         {
-          "name": "Sree Gauri",
-          "phone": "9380186509"
+          "name": "Sathvika",
+          "phone": "9845885900"
         }
       ]
     },
@@ -356,48 +295,50 @@
           "name": "Duet Dance",
           "image": "https://ik.imagekit.io/halcyon2022/cover/duet_dance_B26dJBPCLL.jpeg",
           "open": false,
-          "prize": "10000",
+          "prize": "8000",
           "brief": "",
           "rules": [
-            "Duo should consist of only boys/girls.",
-            "Combination is not allowed",
-            " Time Limit : 4+1 Minutes"
+            " Time Limit : 4+1 Minutes on stage.",
+            "Duo can consist of a pair of boys/girls or both, combination is allowed.",
+            "Live band is not allowed."
           ],
-          "date": "16 June 2022",
-          "location": "Open Stage",
-          "time": "6:00 PM",
+          "date": "30 June 2023",
+          "location": "Birla Auditorium",
+          "time": "2:00 PM",
           "registration_fee": "300"
         },
         {
           "name": "Western Solo Dance",
           "image": "https://ik.imagekit.io/halcyon2022/cover/western_solo_dance_1__0-DC8k81VI.jpg",
           "open": false,
-          "prize": "6000",
+          "prize": "5000",
           "brief": "",
           "rules": [
-            "Live band or group song accompanied by dancing is not allowed.",
-            "Time limit : 3 + 2 minutes on stage."
+            "Time limit : 3 + 2 minutes on stage.",
+            "Live band or group song accompanied by dancing is not allowed."
+            
           ],
-          "date": "17 June 2022",
+          "date": "30 June 2023",
           "location": "Birla Auditorium",
-          "time": "4:30 PM",
+          "time": "12:30 PM",
           "registration_fee": "200"
         },
         {
           "name": "Classical And Folk Dance",
           "image": "https://ik.imagekit.io/halcyon2022/cover/classical_and_folk_dance_MMxCxsvHO.jpg",
           "open": false,
-          "prize": "6000",
+          "prize": "5000",
           "brief": "",
           "rules": [
+            "Time limit : 3 + 2 minutes on stage.",
             "Live band or group song accompanied by dancing is not allowed.",
             "Respective dance form props are allowed.",
-            "Number of participants allowed is 1",
-            "Time limit : 3 + 2 minutes on stage."
+            "Number of participants allowed is 1"
+            
           ],
-          "date": "17 June 2022",
+          "date": "30 June 2023",
           "location": "Birla Auditorium",
-          "time": "3:00 PM",
+          "time": "11:00 AM",
           "registration_fee": "200"
         },
         {
@@ -413,21 +354,21 @@
             "Maximum number of participants is 18 and minimum is 6.",
             "Teams have to submit a video of their performance as per the date announced on the website."
           ],
-          "date": "17 June 2022",
+          "date": "30 June 2023",
           "location": "Open Stage",
-          "time": "6:00 PM",
-          "registration_fee": "1200"
+          "time": "7:30 PM",
+          "registration_fee": "1500"
         }
       ],
       "rules": "All events allow a maximum of 3 participants or teams per college. Audio for dance should be made available to the concerned co-ordinator 3 hours prior to the event in a ready to play condition. Poor audio quality is not the responsibility of the organizers. Any costumes, gestures and actions should not be obscene. The decision of the JUDGES is final and binding on all the participants.",
       "co_ordinators": [
         {
-          "name": "Rishab S",
-          "phone": "9740261868"
+          "name": "Eshwar T N",
+          "phone": "9071216678"
         },
         {
-          "name": "Srishti S",
-          "phone": "7676888019"
+          "name": "Punya C N",
+          "phone": "8088048858"
         }
       ]
     },
@@ -439,7 +380,7 @@
           "name": "Face Painting",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/fine-face_painting_3nEVbeXJ_.jpg ",
           "open": true,
-          "prize": "4500",
+          "prize": "3000",
           "brief": "",
           "rules": [
             "Open event.",
@@ -448,30 +389,12 @@
             "Paints and brushes will be provided (maximum 6 colors).",
             "Provisions - Waste cloth/paper, water, plastic cups."
           ],
-          "date": "16 June 2022",
+          "date": "30 June 2023",
           "location": "Lawn Tennis Court",
-          "time": "1:30 PM",
+          "time": "11:00 AM",
           "registration_fee": "200"
         },
-        {
-          "name": "Clay Modelling",
-          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/fine-clay_modeling_dBnY9EVP0.jpg",
-          "open": true,
-          "prize": "4500",
-          "brief": "",
-          "rules": [
-            "Open and individual event.",
-            "No colours allowed.",
-            "Topic will be given on the spot.",
-            "Clay and water will be provided.",
-            "No other materials must be used.",
-            "Time limit: 1 hour"
-          ],
-          "date": "16 June 2022",
-          "location": "Mech Dept",
-          "time": "3:00 PM",
-          "registration_fee": "200"
-        },
+        
         {
           "name": "Collage",
           "prize": "3500",
@@ -488,58 +411,17 @@
             "Scissors and burning of paper is prohibited.",
             "Participants will not be allowed to leave the hall during the event."
           ],
-          "date": "17 June 2022",
+          "date": "30 June 2023",
           "location": "Architecture Dept",
-          "time": "11:30 AM",
+          "time": "3:30 PM",
           "registration_fee": "200"
         },
-        {
-          "name": "Split Art",
-          "image": "https://ik.imagekit.io/halcyon2022/cover/split_art_bdfAq2W6P.jpg",
-          "open": true,
-          "prize": "5500",
-          "brief": "",
-          "rules": [
-            "Open event.",
-            "2 participants per team.",
-            "Time Limit : 1 hour 30 mins.",
-            "Topic will be given on spot.",
-            "Materials will be provided.If other materials are used, the team will be disqualified.",
-            "Participants will be alternatively allowed to paint in intervals of 15 minutes."
-          ],
-          "date": "18 June 2022",
-          "location": "Architechture Dept",
-          "time": "1:00 PM",
-          "registration_fee": "200"
-        },
-        {
-          "name": "Trash To Art",
-          "link": "",
-          "image": "https://ik.imagekit.io/halcyon2022/cover/trash_art_-rdM8vTKH.jpg",
-          "open": true,
-          "prize": "6000",
-          "brief": "",
-          "rules": [
-            "Open event.",
-            "3 members per team.",
-            "Theme will be provided 2 hours prior to the event.",
-            "No accessories will be provided.",
-            "Only waste materials to be used.",
-            "Damage to college property will attract heavy fine and disqualification.",
-            "Use of transportation to find material is not allowed.",
-            "Time Limit: 1 hour.",
-            "Art must be explained."
-          ],
-          "date": "17 June 2022",
-          "location": "Architechture Dept",
-          "time": "2:00 PM",
-          "registration_fee": "200"
-        },
+
         {
           "name": "Creative Photography",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/fine-creative_photography_bmt6cagfl.jpg",
           "open": false,
-          "prize": "3500",
+          "prize": "3000",
           "brief": "",
           "link": "https://forms.gle/qn6wXaNTuBNVKLep7",
           "rules": [
@@ -551,40 +433,62 @@
             "Students from other colleges will be mailed a video conference link in which they will have to briefly explain their photograph, students present at the fest will exhibit their photograph offline.",
             "Submission link will be provided on the website."
           ],
-          "date": "18 June 2022",
+          "date": "1 July 2023",
           "location": "AD Seminar Hall",
-          "time": "11:00 AM",
+          "time": "2:00 PM",
           "registration_fee": "200"
         },
         {
-          "name": "Pencil Sketch",
+          "name": "Short Film",
+          "image": "https://ik.imagekit.io/3aff7hsp7/shortfil.jpg?updatedAt=1687670132756",
+          "open": false,
+          "prize": "3000",
+          "brief": "",
+          "link": "https://forms.gle/qn6wXaNTuBNVKLep7",
+          "rules": [
+            "3 participants per team.",
+            "Video should portray a social message.",
+            "Capturing of video should be done within college premises.",
+            "Video should be captured using only mobile phones.",
+            "The theme remains as","Halcyon-2023.",
+            "Last date for submission is 1pm on the second day of Halcyon i.e. July 1.",
+            "The format should be in mp4.",
+            "Time limit:4+1 minutes."
+          ],
+          "date": "1 July 2023",
+          "location": "AD Seminar Hall",
+          "time": "2:00 PM",
+          "registration_fee": "200"
+        },
+        {
+          "name": "Sketching",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/fine-pencil_lxTktIs2l.jpg",
           "open": true,
-          "prize": "3500",
+          "prize": "3000",
           "brief": "",
           "rules": [
-            "Individual event.",
+            "Open and individual event.",
             "Time Limit: 45 minutes.",
             "The topic will be given on spot.",
             "Only chart paper and stationaries will be provided.",
             "No other item will be provided.",
             "Participants will not be allowed to leave the hall during the event"
           ],
-          "date": "18 June 2022",
+          "date": "30 June 2023",
           "location": "Architecture Dept",
-          "time": "11:00 AM",
+          "time": "12:00 PM",
           "registration_fee": "200"
         }
       ],
 
       "co_ordinators": [
         {
-          "name": "Nekeel N",
-          "phone": "9980099900"
+          "name": "Mohammed Anoof",
+          "phone": "7996407631"
         },
         {
-          "name": "Vinay Kumar",
-          "phone": "9741759614"
+          "name": "Suhas Gouli",
+          "phone": "7975994319"
         }
       ]
     },
@@ -592,58 +496,30 @@
       "name": "Gaming",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfUcWRmZnAYk9iE8edhBcHmvP6pc2lZr11bNQyRQXwtlu5Isg/viewform?vc=0&c=0&w=1&flr=0",
       "events": [
+
         {
-          "name": "NFS",
-          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/g-NFS_jTS8pmK9k.jpg",
+          "name": "Valorant",
+          "image": "https://ik.imagekit.io/3aff7hsp7/Valorant-Mobile.jpg?updatedAt=1687669852441",
           "open": false,
-          "prize": "3500",
-          "brief": "",
-          "rules": ["4 participants compete with each other in a circuit."],
-          "date": "18 June 2022",
-          "location": "CSE Dept",
-          "time": "11:00 AM",
-          "registration_fee": "200"
-        },
-        {
-          "name": "Counter Strike",
-          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/g-counterstrike_8MT9JN3yO.jpg?",
-          "open": false,
-          "prize": "12000",
+          "prize": "10000",
           "brief": "",
           "rules": [
-            "5 members per team.",
-            "The maps selected for the competition are de_dust2, de_inferno, de_nuke and de_train.",
-            "Official ESL ONE Gaming Rules will be followed except for the number of rounds allotted."
+            "Each team consist of 5 players.",
+            "Participants must hold at least silver rank in the game.",
+            "All rules are subjected to change as per the discretion of the gaming coorinators.",
+            "The gaming coordinators decision is final."
           ],
-          "date": "17 June 2022",
-          "location": "Architecture Dept",
-          "time": "11:00 AM",
-          "registration_fee": "300"
+          "date": "1 July 2023",
+          "location": "Architeture Dept",
+          "time": "12:15 PM",
+          "registration_fee": "500"
         },
-        {
-          "name": "Anti Chess",
-          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/g-chess_sO6UHKavR.jpg",
-          "open": true,
-          "prize": "3500",
-          "brief": "",
-          "rules": [
-            "Open individuals event.",
-            "Castling is allowed.",
-            "The maximum time limit for a move:10 Seconds.",
-            "Each piece has some points.",
-            "5 wrong moves lead to elimination.",
-            "Maximum duration of a match : 5 minutes"
-          ],
-          "date": "17 June 2022",
-          "location": "Architecture Dept",
-          "time": "11:00 AM",
-          "registration_fee": "200"
-        },
+
         {
           "name": "Battle Grounds Mobile India",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/g-pubg_aybtNb4eJ.jpg",
           "open": false,
-          "prize": "7000",
+          "prize": "12000",
           "brief": "",
           "rules": [
             "A team of 4 is allowed.",
@@ -652,21 +528,52 @@
             "Players may participate in the event only on a mobile phone or any other handheld devices.",
             "Players are not allowed to use peripheral devices of any kind."
           ],
-          "date": "16 June 2022",
+          "date": "30 June 2023",
           "location": "Media Center",
-          "time": "1:30 PM",
+          "time": "12:30 PM",
+          "registration_fee": "400"
+        },
+
+        {
+          "name": "Ludo King",
+          "image": "https://ik.imagekit.io/3aff7hsp7/Ludo-King-759.jpg?updatedAt=1687669962086",
+          "open": false,
+          "prize": "5000",
+          "brief": "",
+          "rules": ["First two players who manage to move two tokens to finishing point will be selected to next round.",
+                     "Rest of the rules are as per the game designed.",
+                     "Players should participate through mobile phones provided by the organisers."
+      ],
+          
+          "date": "1 July 2023",
+          "location": "Architecture Dept",
+          "time": "11:30 AM",
+          "registration_fee": "100"
+        },
+      
+        {
+          "name": "NFS",
+          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/g-NFS_jTS8pmK9k.jpg",
+          "open": false,
+          "prize": "5000",
+          "brief": "",
+          "rules": ["4 participants compete with each other in a circuit."],
+          "date": "30 June 2023",
+          "location": "Civil Dept",
+          "time": "11:15 AM",
           "registration_fee": "200"
         }
+        
       ],
       "rules": "All gaming events are open events. The team must confirm their entries with the gaming coordinators at the venue at least 10 minutes prior to the event. The use of obscene language imbibed into the team's play incurs disqualification.Discrepancies in the formation of the team shall lead to disqualification. All rules are subjected to change at the discretion of the gaming coordinators and their decisions are final.",
       "co_ordinators": [
         {
-          "name": "Vikas M",
-          "phone": "6362431302"
+          "name": "Manikanta D",
+          "phone": "8217680357"
         },
         {
-          "name": "Darshan T R",
-          "phone": "7022643854"
+          "name": "Sinchana K R",
+          "phone": "7022086109"
         }
       ]
     },
@@ -685,89 +592,49 @@
             "The script should be submitted 10 minutes beforehand for verification.",
             "The time allowed is 5+2 minutes."
           ],
-          "date": "16 June 2022",
-          "location": "AD Block Sem Hall",
-          "time": "2:00 PM",
+          "date": "1 July 2023",
+          "location": "AD Block Seminar Hall",
+          "time": "12:00 PM",
           "registration_fee": "200"
-        },
-        {
-          "name": "Indian Ethnic Show",
-          "image": "https://ik.imagekit.io/halcyon2022/cover/indian_ethic_show_L8JQG4tWqW.jpg",
-          "open": true,
-          "prize": "32000",
-          "brief": "",
-          "rules": [
-            "3 teams per college.",
-            "A team can include boys and girls.",
-            "Minimum 4 participants and maximum 20 participants.",
-            "Karaoke will be allowed.Time limit is 8+2 minutes.",
-            "Teams have to submit photos and videos of their performance as per the date announced on the official Instagram page. ",
-            "Participants are requested to behave decently on stage.",
-            "Indecent acts of physical contact or vulgarity on stage will lead to disqualification.",
-            "Dress code of participants should strictly portray Indian ethnicity and should not involve any kind of vulgarity.",
-            "Traditional culture of different states has to be presented.",
-            "Decision of the judges is final and binding"
-          ],
-          "date": "17 June 2022",
-          "location": "Open Stage",
-          "registration_fee": "1200",
-          "time": "5:00 PM"
         },
         {
           "name": "Street Play",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/street_play_-td1iXqPQ.jpg",
           "open": true,
-          "prize": "16500",
+          "prize": "15000",
           "brief": "",
           "rules": [
-            "Open event.",
-            "Time limit: 12+3 minutes.",
             "Minimum 8 and maximum 15 participants per team.",
             "Props and musical instruments are allowed.",
-            "The play should be for a social cause."
+            "The play should be for a social cause.",
+            "Time limit: 12+3 minutes."
+            
+            
           ],
-          "date": "16 June 2022",
+          "date": "30 June 2023",
           "location": "Basketball Court",
-          "time": "3:15 PM",
-          "registration_fee": "800"
+          "time": "2:15 PM",
+          "registration_fee": "1000"
         },
+
         {
           "name": "Skit",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/skit_T-7WNLATD.jpg",
           "open": true,
-          "prize": "16500",
+          "prize": "15000",
           "brief": "",
           "rules": [
-            "Open event.",
             "Minimum 6 and maximum 15 participants including narrator(if any).",
             "Props and costumes are allowed.",
             "The performance should not be a part of any movie or TV show.",
             "Time limit: 10+2 minutes"
           ],
-          "date": "17 June 2022",
+          "date": "1 July 2023",
           "location": "Birla Auditorium",
-          "time": "11:30 AM",
-          "registration_fee": "800"
+          "time": "10:30 AM",
+          "registration_fee": "1000"
         },
-        {
-          "name": "60 Seconds To Fame",
-          "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/60_sec_to_frame_PGTMB_Dc-.jpg",
-          "open": true,
-          "prize": "3000",
-          "brief": "",
-          "rules": [
-            "Open event.",
-            "Maximum of 2 participants per team.",
-            "Judgement is based on creativity, innovation, and uniqueness.",
-            "The performance can be dance, mimicry, magic, comical etc. as long as it is not obscene.",
-            "Props are allowed.",
-            "Time limit given is 60 seconds."
-          ],
-          "date": "18 June 2022",
-          "location": "Birla Auditorium",
-          "time": "11:30 AM",
-          "registration_fee": "200"
-        },
+
         {
           "name": "Mime",
           "image": "https://ik.imagekit.io/halcyon2022/halcyon-coverpage/mime_dZXRgCvAN.jpg?",
@@ -775,28 +642,53 @@
           "prize": "10000",
           "brief": "",
           "rules": [
-            "Open event.",
             "Maximum 7 participants per team.",
             "1 accompanist is allowed.",
             "No props should be used.",
             "Only background music without vocals is allowed.",
             "Time Limit: 4+2 minutes."
           ],
-          "date": "18 June 2022",
+          "date": "1 July 2023",
           "location": "Birla Auditorium",
-          "time": "10:00 AM",
+          "time": "12:15 AM",
           "registration_fee": "500"
+        },
+
+        {
+          "name": "Indian Ethnic Show",
+          "image": "https://ik.imagekit.io/halcyon2022/cover/indian_ethic_show_L8JQG4tWqW.jpg",
+          "open": true,
+          "prize": "30000",
+          "brief": "",
+          "rules": [
+            "3 teams per college.",
+            "A team can include boys and girls.",
+            "Minimum 5 participants and maximum 20 participants.",
+            "Background music will be allowed.Time limit is 8+2 minutes.",
+            "Teams have to submit photos and videos of their performance as per the date announced on the official Instagram page. ",
+            "Participants are requested to behave decently on stage.",
+            "Indecent acts of physical contact or vulgarity on stage will lead to disqualification.",
+            "Dress code of participants should strictly portray Indian ethnicity and should not involve any kind of vulgarity.",
+            "Traditional culture of different states has to be presented.",
+            "Decision of the judges is final and binding"
+          ],
+          "date": "30 June 2023",
+          "location": "Open Stage",
+          "registration_fee": "1500",
+          "time": "6:30 PM"
         }
+        
+
       ],
       "rules": "Vulgarity and obscenity in/of any form is not allowed.Participants are requested to refrain from using controversial remarks. Repetition of the same scripts in different events will be disqualified.",
       "co_ordinators": [
         {
-          "name": "Vishwas N",
-          "phone": "8971655118"
+          "name": "Shravan S",
+          "phone": "9980228687"
         },
         {
-          "name": "Amulya B Ingale",
-          "phone": "6361611766"
+          "name": "Kusuma",
+          "phone": "9964195498"
         }
       ]
     }
